@@ -40,7 +40,6 @@ func main() {
 // add more implementations...
 // This would enable benchmarking the different implementations.
 // Based on time and memory.
-// Table-driven tests.
 
 // AreEquistant Returns bool value based on input string
 func AreEquistant(input string) bool {
