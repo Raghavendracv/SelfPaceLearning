@@ -2,42 +2,28 @@ package main
 
 import "testing"
 
-// TestAreEquistantForValidInputEndsWithOne validates IsEquistant for valid string and expects true result.
-func TestAreEquistantForValidInputEndsWithOne(t *testing.T) {
-	actual := AreEquistant("001001001")
-	expected := true
+//TestAreEquistant using Table-Driven Test
+func TestAreEquistant(t *testing.T) {
 
-	if actual != expected {
-		t.Errorf("AreEquistant result was incorrect, got: %t, want: %t.", actual, expected)
+	tests := []struct {
+		name string
+		in   string
+		want bool
+	}{
+		{"Equidistant string starts with zero and ends with zero", "0010010010", true},
+		{"Equidistant string starts with zero and ends with one", "1001001001", true},
+		{"Equidistant string starts with one and ends with zero", "10010010", true},
+		{"Equidistant string starts with one and ends with one", "1001001", true},
+		{"Non equidistant string stats with zero and ends with zero", "01010101010000010001010101010101010010", false},
+		{"Non equidistant string stats with zero and ends with one", "0101010101000001000101010101010101001", false},
+		{"Non equidistant string stats with one and ends with zero", "1010101010000010001010101010101010010", false},
+		{"Non equidistant string stats with one and ends with one", "101010101000001000101010101010101001", false},
 	}
-}
 
-// TestAreEquistantForInvalidInput validates IsEquistant for invalid string and expects false result.
-func TestAreEquistantForInvalidInput(t *testing.T) {
-	actual := AreEquistant("01010101010000010001010101010101010010")
-	expected := false
-
-	if actual != expected {
-		t.Errorf("AreEquistant result was incorrect, got: %t, want: %t.", actual, expected)
-	}
-}
-
-// TestAreEquistantForValidInputEndsWithZero validates IsEquistant for valid string and expects true result.
-func TestAreEquistantForValidInputEndsWithZero(t *testing.T) {
-	actual := AreEquistant("01010101010")
-	expected := true
-
-	if actual != expected {
-		t.Errorf("AreEquistant result was incorrect, got: %t, want: %t.", actual, expected)
-	}
-}
-
-// TestAreEquistantForValidInputStartsWithOne validates IsEquistant for valid string and expects true result.
-func TestAreEquistantForValidInputStartsWithOne(t *testing.T) {
-	actual := AreEquistant("101010101010")
-	expected := true
-
-	if actual != expected {
-		t.Errorf("AreEquistant result was incorrect, got: %t, want: %t.", actual, expected)
+	for _, test := range tests {
+		got := AreEquistant(test.in)
+		if got != test.want {
+			t.Errorf("(%q,%q) = %t; want %t", test.name, test.in, got, test.want)
+		}
 	}
 }
