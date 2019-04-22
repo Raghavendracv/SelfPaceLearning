@@ -25,6 +25,7 @@ Approaches:
 package main
 
 import "fmt"
+import "math"
 
 func main() {
 
@@ -35,24 +36,30 @@ func main() {
 	fmt.Println(AreEquistant(input))
 }
 
+// func AreEquidistant_Linear() bool {}
+// add more implementations...
+// This would enable benchmarking the different implementations.
+// Based on time and memory.
+// Table-driven tests.
+
 // AreEquistant Returns bool value based on input string
 func AreEquistant(input string) bool {
 
-	prevIndex := 0
-	prevDistance := 0
+	prevIndex := math.MinInt64
+	prevDistance := math.MinInt64
 
 	for index, element := range input {
 
 		if string(element) == "1" {
 
-			if prevIndex == 0 {
+			if prevIndex == math.MinInt64 {
 
 				prevIndex = index
-			} else if prevDistance == 0 {
+			} else if prevDistance == math.MinInt64 {
 
 				prevDistance = index - prevIndex
 				prevIndex = index
-			} else if prevIndex != 0 && prevDistance != 0 {
+			} else if prevIndex != math.MinInt64 && prevDistance != math.MinInt64 {
 
 				if index-prevIndex > prevDistance {
 					return false
@@ -62,5 +69,5 @@ func AreEquistant(input string) bool {
 		}
 	}
 
-	return true
+	return prevIndex != math.MinInt64 && prevDistance != math.MinInt64
 }

@@ -31,3 +31,13 @@ func TestAreEquistantForValidInputEndsWithZero(t *testing.T) {
 		t.Errorf("AreEquistant result was incorrect, got: %t, want: %t.", actual, expected)
 	}
 }
+
+// TestAreEquistantForValidInputStartsWithOne validates IsEquistant for valid string and expects true result.
+func TestAreEquistantForValidInputStartsWithOne(t *testing.T) {
+	actual := AreEquistant("101010101010")
+	expected := true
+
+	if actual != expected {
+		t.Errorf("AreEquistant result was incorrect, got: %t, want: %t.", actual, expected)
+	}
+}
