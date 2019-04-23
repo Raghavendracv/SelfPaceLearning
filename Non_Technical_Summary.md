@@ -1,4 +1,4 @@
-#Todo
+# Todo
 
 * Limitless Movie
 * Codepan
@@ -46,7 +46,7 @@
 * Vue Js
 * hoisting in js
 
-#Learnings
+# Learnings
 
 * Be better version of yourself daily.
 * When Tired learn to REST not to quit.
