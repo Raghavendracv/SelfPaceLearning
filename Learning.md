@@ -1,3 +1,29 @@
+**GO:**
+
+All problems should have atleast two approaches.
+Test all approaches using Table-Driven Test.
+Add Benchmark test for each problem. 
+
+https://golang.org/pkg/ -- Documentation for standard library packages
+To begin with, look at the documentation for the following packages:
+*  bufio
+*  bytes
+*  errors
+*  flag
+*  fmt
+*  io
+*  log
+*  math
+*  sort
+*  strconv
+*   strings
+*  time
+	
+https://blog.golang.org/subtests
+https://medium.com/go-walkthrough
+
+
+
 **NOSQL**
  * Suitable for Availability. 
  * Major companies use them for analytics purposes.
