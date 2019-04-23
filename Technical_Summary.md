@@ -9,6 +9,15 @@ Follow - tcharding on github
 - Advantages vs Disadvantages 
 - Think sober
 
+# Pet Project Ideas
+* Mail Automation & portfolio tracker using UI Path.
+* Bettleship design using funtional approach. (**Thoughtworks**)
+* Bettleship design using Oops. 
+* Wrist band app to integrate with trello for todo management.
+* Mobile app to write journal to github.
+
+# Learnings
+
 **SQL Lint Tools**
 
 **GO:**
