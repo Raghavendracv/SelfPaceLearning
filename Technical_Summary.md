@@ -63,39 +63,3 @@ https://medium.com/go-walkthrough
 * Quantitative evaluation techniques
     *   Gini Impurity
     *   Gini Gain
-
-# TODO
-* Load Balancer System Design - Gaurav Sen.
-    * Continueous Hashing
-* The road to learn react - book for react.
-* Find min distance.
-* Saltstack - Infra Management.
-* Quorum - Distributed Consensus.
-* shading - Gaurav Sen.
-* Hashing algorithms with collision probability.
-* Manipulation of sorted dictionary.
-* Big Data - Google White paper.
-* Lockless - Link list manipulation - Concurrency pattern: (in Go)
-    * Fork Join.
-    * Concurrency check while adding a node.
-* https://Michaelscodingspot.com (array iteration vs parallelism).
-* Actor Based Framework.
-* Open trace API and dynatrace integration.
-* 12 factor app design.
-* Distributed locking,
-* Durable Task.
-* Go lang specifications.
-* Exception handling with composition.
-* sync pattern in GO for concurrency management.
-* Web Assembly
-* Brotli
-* News.ycombinator.com
-* Kenton Verda - Google Protobuf lead for better mechanisum.
-* GraphQL.
-* reddit code - upvote & down vote functionaliy.
-* Apollo - Consumer Driven Web APIs 
-* Web Pack
-* Redux vs Apollo
-* Next Js
-* Vue Js
-* hoisting in js
