@@ -1,3 +1,5 @@
+package AreOneEquidistant
+
 /*
 URL : https://www.geeksforgeeks.org/check-if-all-the-1s-in-a-binary-string-are-equidistant-or-not/
 
@@ -22,19 +24,7 @@ Approaches:
 
 */
 
-package main
-
-import "fmt"
 import "math"
-
-func main() {
-
-	input := "001001001"
-	//input := "01010101010000010001010101010101010010"
-	//input := "01010101010"
-
-	fmt.Println(AreEquistant(input))
-}
 
 // func AreEquidistant_Linear() bool {}
 // add more implementations...

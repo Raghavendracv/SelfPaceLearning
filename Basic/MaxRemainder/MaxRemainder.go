@@ -65,7 +65,3 @@ func CaclulateMaxRemainder(input []int) int {
 
 	return secondLargest % largest
 }
-
-func main() {
-	CaclulateMaxRemainder([]int{1, 2, 3, 4})
-}
