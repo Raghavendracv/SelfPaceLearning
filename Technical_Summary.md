@@ -3,10 +3,6 @@ Follow - tcharding on github
 
 **GO:**
 
-All problems should have atleast two approaches.
-Test all approaches using Table-Driven Test.
-Add Benchmark test for each problem. 
-
 https://golang.org/pkg/ -- Documentation for standard library packages
 To begin with, look at the documentation for the following packages:
 *  bufio
@@ -25,6 +21,13 @@ To begin with, look at the documentation for the following packages:
 https://blog.golang.org/subtests
 https://medium.com/go-walkthrough
 
+**SQL Server Concurrency Handling**
+
+**The complete junior to senior web developer**
+
+**Wes Boss**
+
+**Javascript30.com**
 
 
 **NOSQL**
