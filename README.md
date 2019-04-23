@@ -44,7 +44,7 @@ I want to solve each problem using at least three different approahces and bench
 * Write Table-Driven test for different implementations.
 * Benchmark different implementations.
 
-**SubArrayWithGivenSum*** 
+**SubArrayWithGivenSum** 
 * Update approaches description.
 * Implement different approaches(Three more to go).
 * Write Table-Driven test for different implementations.
