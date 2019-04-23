@@ -1,3 +1,6 @@
+Tobin Harding has really nice implemantations for go. 
+Follow - tcharding on github
+
 **GO:**
 
 All problems should have atleast two approaches.
