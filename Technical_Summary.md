@@ -1,6 +1,14 @@
 Tobin Harding has really nice implemantations for go. 
 Follow - tcharding on github
 
+**UNPHAT Approach for Problem Solving** 
+- Understand
+- Enumerate 
+- Paper (white papers) 
+- History
+- Advantages vs Disadvantages 
+- Think sober
+
 **SQL Lint Tools**
 
 **GO:**
@@ -81,5 +89,4 @@ https://medium.com/go-walkthrough
 * Redux vs Apollo
 * Next Js
 * Vue Js
-* Git - https://github.com/ompanda
 * hoisting in js
