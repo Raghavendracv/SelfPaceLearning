@@ -1,7 +1,7 @@
 # Visual Studio Code Plugins
 
 * Go
-* GO Autotest
+* Go Autotest
 * Markdown Preview Enhanced
 * Code Spell Checker
 * Markdownlint
