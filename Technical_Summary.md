@@ -30,6 +30,17 @@ To begin with, look at the documentation for the following packages:
 *  strconv
 *   strings
 *  time
+<<<<<<< HEAD
+=======
+
+Tobin Harding has really nice implementations for go. 
+Follow - tcharding on github
+
+https://blog.golang.org/subtests
+https://medium.com/go-walkthrough
+
+**SQL Server Concurrency Handling**
+>>>>>>> 2d68f3bc44e4b634f4555e9b1fe4b2be6556715e
 
 Tobin Harding has really nice implementations for go. 
 Follow - tcharding on github
