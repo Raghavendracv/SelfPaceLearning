@@ -6,45 +6,52 @@ Please feel free to contribute to code samples and propose different approaches 
 
 I want to solve each problem using at least three different approaches and benchmark them.
 
-## To Do ##
+## To-Do List
 
-**AreOneEquidistant**
+### AreOneEquidistant
+
 * Update approaches description.
 * Implement different approaches(Two more to go).
 * Reuse test table for different implementations.
 * Benchmark different implementations.
 
-**MaxRemainder**
+### MaxRemainder
+
 * Refactor tests to Table-Driven Test.
 * Implement different approaches(Two more to go).
 * Reuse test table for different implementations.
 * Benchmark different implementations.
 
-**MinimumElementFrequency**
+### MinimumElementFrequency
+
 * Refactor tests to Table-Driven Test.
 * Implement different approaches(Two more to go).
 * Reuse test table for different implementations.
 * Benchmark different implementations.
 
-**MinElementSum**
+### MinElementSum
+
 * Update approaches description.
 * Implement different approaches(Three more to go).
 * Write Table-Driven test for different implementations.
 * Benchmark different implementations.
 
-**MinOperationsToMoveUpperThanLower**
+### MinOperationsToMoveUpperThanLower
+
 * Update approaches description.
 * Implement different approaches(Three more to go).
 * Write Table-Driven test for different implementations.
 * Benchmark different implementations.
 
-**MinSumAfterReplaceTwoWithSum**
+### MinSumAfterReplaceTwoWithSum
+
 * Update approaches description.
 * Implement different approaches(Three more to go).
 * Write Table-Driven test for different implementations.
 * Benchmark different implementations.
 
-**SubArrayWithGivenSum** 
+### SubArrayWithGivenSum
+
 * Update approaches description.
 * Implement different approaches(Three more to go).
 * Write Table-Driven test for different implementations.

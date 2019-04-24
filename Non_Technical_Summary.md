@@ -22,64 +22,67 @@
 * I will not fail, either win or learn.
 * Take deep breath before responding.
 
-# Books Summary
+## Books Summary
 
-**Design Thinking**
+### Design Thinking
 
-    1. THREE Lives Ideas
-        i. Current work.
-        ii. Bucket List for side hustles.
-        iii. Work after financial independence.
-    2. Reach out to people who does the work you desire.
-    3. Prototype & expect to be lucky.
+1. THREE Lives Ideas
+    * Current work.
+    * Bucket List for side hustles.
+    * Work after financial independence.
+1. Reach out to people who does the work you desire.
+1. Prototype & expect to be lucky.
 
-**Art of learning**
+### Art of learning
 
-    1. Decomposition
-    2. Selection 80/20 rule
-    3. Ordering
-    4. Stake
+1. Decomposition
+1. Selection 80/20 rule
+1. Ordering
+1. Stake
 
-**Manage Your Energy, Not Your Time**
+### Manage Your Energy, Not Your Time
 
-    1. Exercise.
-    2. Follow sleep routine.
-    3. Eat light food in interval of 3 hours.
-    4. Take break every 2 hours.
-    5. Don't be in hurry to respond take deep inhalation & exhalation.
-    6. Connect with colleagues to know more about them & try to help them grow.
-    7. In case of conflict think about below points:
-        i. What would the other person in this conflict say and in what ways might that be true?
-        ii. How will I most likely view this situation in six months?   
-        iii. Regardless of the outcome of this issue, how can I grow and learn from it?
-    8. Avoid distractions
-        i. Turn off Email & Ping when focusing on work.
-        ii. Work in quite place.
-        iii. Keep distance with mobile phone
-    9. Prioritize long term beneficial work to avoid procrastination.
-    10. Do what you do best & enjoy work. (teaching & helping others)
-    11. Identify people's interest area & give them work accordingly.
-    12. Ask Who are you & Who you want to be?
-    13. Employer should invest in people & employee should bring multidimensional energy to work.
+1. Exercise.
+1. Follow sleep routine.
+1. Eat light food in interval of 3 hours.
+1. Take break every 2 hours.
+1. Don't be in hurry to respond take deep inhalation & exhalation.
+1. Connect with colleagues to know more about them & try to help them grow.
+1. In case of conflict think about below points:
+    * What would the other person in this conflict say and in what ways might that be true?
+    * How will I most likely view this situation in six months?
+    * Regardless of the outcome of this issue, how can I grow and learn from it?
+1. Avoid distractions
+    * Turn off Email & Ping when focusing on work.
+    * Work in quite place.
+    * Keep distance with mobile phone
+1. Prioritize long term beneficial work to avoid procrastination.
+1. Do what you do best & enjoy work. (teaching & helping others)
+1. Identify people's interest area & give them work accordingly.
+1. Ask Who are you & Who you want to be?
+1. Employer should invest in people & employee should bring multidimensional energy to work.
 
-**Stress Management**
-    
-    1. Sphere Mint Tea 
-    2. Lavender aroma oil
-    3. Hot shower 
-    4. Dark Chocolates
-    5. Chewing Gums
-    6. Write down thoughts
-    7. Exercise  
-    8. No canine
-    9. No wine 
+### Stress Management
 
-**Predictably Irrational**
+1. Meditate
+1. Drink HOT water in morning
+1. Drink Milk & Walk
+1. Cold shower
+1. Have light break fast
+1. Drink fluid
+1. Eat after every 3 hours
+1. Include veggies in diet
+1. Write down thoughts  
+1. Read book/article/magazine
+1. Follow minimalism
+1. No wine
 
-    1. Decoy - False Option.
-    2. Relativity is driving force.
-    3. People don't like to think.
-    4. Arbitrary Coherence - First decision is important.
-    5. The more you have it the more you want it.
-    6. Power of free - zero.
-    7. Social norm vs. Market norm.
+### Predictably Irrational
+
+1. Decoy - False Option.
+1. Relativity is driving force.
+1. People don't like to think.
+1. Arbitrary Coherence - First decision is important.
+1. The more you have it the more you want it.
+1. Power of free - zero.
+1. Social norm vs. Market norm.
