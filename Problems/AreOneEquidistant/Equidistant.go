@@ -18,7 +18,7 @@ and the distance between the 2nd and the 3rd 1’s is 3.
 
 Approaches:
 
-1. Find all the occurances of 1s form input then calculate distance & return false if any distance is not same as previous.
+1. Find all the occurrence of 1s form input then calculate distance & return false if any distance is not same as previous.
 
 2. Loop through all elements and update previous distance.
 
@@ -31,8 +31,8 @@ import "math"
 // This would enable benchmarking the different implementations.
 // Based on time and memory.
 
-// AreEquistant Returns bool value based on input string
-func AreEquistant(input string) bool {
+// AreEquidistant Returns bool value based on input string
+func AreEquidistant(input string) bool {
 
 	prevIndex := math.MinInt64
 	prevDistance := math.MinInt64

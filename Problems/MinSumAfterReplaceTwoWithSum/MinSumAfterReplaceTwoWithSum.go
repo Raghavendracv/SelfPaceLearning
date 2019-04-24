@@ -17,7 +17,7 @@ Choose 12 and 10, Sum = 39, arr[] = {22}
 Input: arr[] = {1, 3, 7, 5, 6}
 Output: 48
 
-Appraoches:
+Approaches:
 
 1. Using recursion
 

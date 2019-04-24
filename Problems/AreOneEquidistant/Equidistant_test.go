@@ -2,8 +2,8 @@ package AreOneEquidistant
 
 import "testing"
 
-//TestAreEquistant using Table-Driven Test
-func TestAreEquistant(t *testing.T) {
+//TestAreEquidistant using Table-Driven Test
+func TestAreEquidistant(t *testing.T) {
 
 	tests := []struct {
 		name string
@@ -23,7 +23,7 @@ func TestAreEquistant(t *testing.T) {
 	}
 
 	for _, test := range tests {
-		got := AreEquistant(test.in)
+		got := AreEquidistant(test.in)
 		if got != test.want {
 			t.Errorf("(%q,%q) = %t; want %t", test.name, test.in, got, test.want)
 		}

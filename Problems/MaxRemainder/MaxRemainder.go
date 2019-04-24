@@ -30,8 +30,8 @@ Approaches:
 
 */
 
-// CaclulateMaxRemainder returns maximum reminder of two elements from input slice
-func CaclulateMaxRemainder(input []int) int {
+// CalculateMaxRemainder returns maximum reminder of two elements from input slice
+func CalculateMaxRemainder(input []int) int {
 
 	n := len(input)
 	largest := 0

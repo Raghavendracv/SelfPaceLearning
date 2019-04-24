@@ -1,6 +1,7 @@
 package MinElementSum
 
 /*
+Url: https://www.geeksforgeeks.org/delete-odd-and-even-numbers-at-alternate-step-such-that-sum-of-remaining-elements-is-minimized/
 
 Delete odd and even numbers at alternate step such that sum of remaining elements is minimized
 Given an array arr[] of N elements. At any step, we can delete a number of a different parity from the just previous step, i.e., if, at the previous step, an odd number was deleted then delete an even number in the current step or vice versa.

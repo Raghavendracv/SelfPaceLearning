@@ -20,8 +20,8 @@ The string is already in the specified format.
 
 Approaches:
 
-1. Traverse input and calculate last occurance of Upper case character (lastUpper)
-& first occurance of lower case character (firstLower) and return minimum operation count based on below logic:
+1. Traverse input and calculate last occurrence of Upper case character (lastUpper)
+& first occurrence of lower case character (firstLower) and return minimum operation count based on below logic:
 
 	if lastUpper < firstLower
 		no operation required

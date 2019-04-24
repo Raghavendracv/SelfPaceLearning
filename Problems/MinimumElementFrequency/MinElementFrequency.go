@@ -23,7 +23,7 @@ Approaches:
 1. Traverse through input slice/array and build dictionary with Key as element
 value and Value as frequency of the element.Then traverse dictionary to find the minimum key and return the value.
 
-2. Sort the input slice/array and traverse untill different element found and return the frequency.
+2. Sort the input slice/array and traverse until different element found and return the frequency.
 
 3. Traverse through input slice/array maintain mimimum element & frequency.
 

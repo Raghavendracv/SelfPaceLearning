@@ -2,9 +2,9 @@
 
 Learning Journal with code samples in Golang
 
-Please feel free to contribute to code samples and propose different approaches to solve the porblems.
+Please feel free to contribute to code samples and propose different approaches to solve the problems.
 
-I want to solve each problem using at least three different approahces and benchmark them.
+I want to solve each problem using at least three different approaches and benchmark them.
 
 ## To Do ##
 
@@ -15,13 +15,13 @@ I want to solve each problem using at least three different approahces and bench
 * Benchmark different implementations.
 
 **MaxRemainder**
-* Refactort tests to Table-Driven Test.
+* Refactor tests to Table-Driven Test.
 * Implement different approaches(Two more to go).
 * Reuse test table for different implementations.
 * Benchmark different implementations.
 
 **MinimumElementFrequency**
-* Refactort tests to Table-Driven Test.
+* Refactor tests to Table-Driven Test.
 * Implement different approaches(Two more to go).
 * Reuse test table for different implementations.
 * Benchmark different implementations.
