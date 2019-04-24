@@ -1,6 +1,3 @@
-Tobin Harding has really nice implementations for go. 
-Follow - tcharding on github
-
 **UNPHAT Approach for Problem Solving** 
 - Understand
 - Enumerate 
@@ -44,7 +41,10 @@ To begin with, look at the documentation for the following packages:
 *  strconv
 *   strings
 *  time
-	
+
+Tobin Harding has really nice implementations for go. 
+Follow - tcharding on github
+
 https://blog.golang.org/subtests
 https://medium.com/go-walkthrough
 
