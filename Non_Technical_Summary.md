@@ -5,7 +5,7 @@
 * Codewar
 * Twitch
 * Load Balancer System Design - Gaurav Sen.
-    * Continueous Hashing
+    * Continuous Hashing
 * The road to learn react - book for react.
 * Find min distance.
 * Why trello TODO has 200 limit.
@@ -36,9 +36,9 @@
 * Web Assembly
 * Brotli
 * News.ycombinator.com
-* Kenton Verda - Google Protobuf lead for better mechanisum.
+* Kenton Verda - Google Protobuf lead for better mechanism.
 * GraphQL.
-* reddit code - upvote & down vote functionaliy.
+* reddit code - upvote & down vote functionality.
 * Apollo - Consumer Driven Web APIs 
 * Web Pack
 * Redux vs Apollo
@@ -55,21 +55,20 @@
 * Everything has a cost.
 * Always ask WHY.
 * Be the change you want see.
-* Allow informed lyfestyle creep.
+* Allow informed lifestyle creep.
 * Importance of enough.
 * Stay away from premature optimization.
-* How fast you can lean will be the only compitative edge anyone can ever have.
+* How fast you can lean will be the only competitive edge anyone can ever have.
 * Accept gravity problems and stop worry about them. Reframe them if required.
 * We pay attention when decision has been made.
 * To be happy choose irreversible option.
-* Choices are pillers of character.
+* Choices are pillars of character.
 * The more things we desire and the more we have to do to earn or attain those achievements, the less we actually enjoy our lives—and the less free we are.
 * The more you say NO to things that don't matter, the more you can say yest to the things that do.
-* Control your perceptions, direct your actions proeprly & willingly accept what is outside your control.
+* Control your perceptions, direct your actions properly & willingly accept what is outside your control.
 * Change attitude, everything else will follow.
 * I will not fail, either win or learn.
 * Take deep breath before responding.
-* Look out for positivity in everything.
 
 # Books
 
@@ -77,8 +76,8 @@
 
     1. THREE Lives Ideas
         i. Current work.
-        ii. Bucket List for side husstles.
-        iii. Work after financial independeance.
+        ii. Bucket List for side hustles.
+        iii. Work after financial independence.
     2. Reach out to people who does the work you desire.
     3. Prototype & expect to be lucky.
 
@@ -91,12 +90,12 @@
 
 **Manage Your Energy, Not Your Time**
 
-    1. Excersise.
+    1. Exercise.
     2. Follow sleep routine.
     3. Eat light food in interval of 3 hours.
     4. Take break every 2 hours.
     5. Don't be in hurry to respond take deep inhalation & exhalation.
-    6. Connect with Collegues to know more about them & try to help them grow.
+    6. Connect with colleagues to know more about them & try to help them grow.
     7. In case of conflict think about below points:
         i. What would the other person in this conflict say and in what ways might that be true?
         ii. How will I most likely view this situation in six months?   
@@ -105,11 +104,11 @@
         i. Turn off Email & Ping when focusing on work.
         ii. Work in quite place.
         iii. Keep distance with mobile phone
-    9. Prioritize long term benificial work to avoid procastination.
+    9. Prioritize long term beneficial work to avoid procrastination.
     10. Do what you do best & enjoy work. (teaching & helping others)
     11. Identify people's interest area & give them work accordingly.
     12. Ask Who are you & Who you want to be?
-    13. Employer should invest in people & employee should bring multidimentional energy to work whole heartedly.
+    13. Employer should invest in people & employee should bring multidimensional energy to work.
 
 **Stress Management**
     
@@ -128,7 +127,7 @@
     1. Decoy - False Option.
     2. Relativity is driving force.
     3. People don't like to think.
-    4. Arbitary Coherance - First decision is important.
+    4. Arbitrary Coherence - First decision is important.
     5. The more you have it the more you want it.
     6. Power of free - zero.
     7. Social norm vs. Market norm.

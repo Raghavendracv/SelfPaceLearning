@@ -1,4 +1,4 @@
-Tobin Harding has really nice implemantations for go. 
+Tobin Harding has really nice implementations for go. 
 Follow - tcharding on github
 
 **UNPHAT Approach for Problem Solving** 
@@ -11,23 +11,31 @@ Follow - tcharding on github
 
 # Pet Project Ideas
 * Mail Automation & portfolio tracker using UI Path.
-* Bettleship design using funtional approach. (**Thoughtworks**)
-* Bettleship design using Oops. 
+* Battleship design using functional approach. (**Thought works**)
+* Battleship design using Oops. 
 * Wrist band app to integrate with trello for todo management.
 * Mobile app to write journal to github.
+
+# Visual Studio Code Plugins
+* Go
+* GO Autotest
+* Markdown Preview Enhanced
+* Code Spell Checker
 
 # Learnings
 
 **SQL Lint Tools**
 
+**ocLazyLoad**
+
 **GO:**
 
-https://golang.org/pkg/ -- Documentation for standard library packages
 To begin with, look at the documentation for the following packages:
 *  bufio
 *  bytes
 *  errors
 *  flag
+    - Helps to provide options for command line go application. It will do type casting which will ease accepting inputs.
 *  fmt
 *  io
 *  log
@@ -53,7 +61,7 @@ https://medium.com/go-walkthrough
 **NOSQL**
  * Suitable for Availability. 
  * Major companies use them for analytics purposes.
- * Redundancy Factor and Quroum mechanisu is used to achieve distributed consensus while returning data.
+ * Redundancy Factor and Quorum mechanism is used to achieve distributed consensus while returning data.
  * ACID properties are not promised to be maintained.
  * Not read optimized but suitable for write intensive applications.
  * Hard to setup relationship between tables.
