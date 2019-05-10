@@ -9,6 +9,8 @@
 
 ## Learnings
 
+### If oDATA/GraphQL implementations are not performant, need to think about data modeling.
+
 ### UNPHAT Approach for Problem Solving
 
 * Understand
