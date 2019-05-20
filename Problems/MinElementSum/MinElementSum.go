@@ -1,5 +1,7 @@
 package MinElementSum
 
+import "sort"
+
 /*
 Url: https://www.geeksforgeeks.org/delete-odd-and-even-numbers-at-alternate-step-such-that-sum-of-remaining-elements-is-minimized/
 
@@ -31,3 +33,43 @@ Approaches:
 	Else
 		sort even slice in ascending order and return sum of first (even Slice Length - odd Slice Length) elements from even slice.
 */
+func GetMinElementSum(input []int) int {
+
+	odd, even := getOddEven(input)
+
+	if len(odd) == len(even) {
+		return 0
+	} else if len(odd) > len(even) {
+
+		return sum(sort.IntSlice(odd)[0 : len(odd)-len(even)])
+	} else {
+
+		return sum(sort.IntSlice(even)[0 : len(even)-len(odd)])
+	}
+}
+
+func getOddEven(input []int) ([]int, []int) {
+
+	var odd []int
+	var even []int
+
+	for _, element := range input {
+		if element%2 == 0 {
+			even = append(even, element)
+		} else {
+			odd = append(odd, element)
+		}
+	}
+
+	return odd, even
+}
+
+func sum(values []int) int {
+	sum := 0
+
+	for _, val := range values {
+		sum += val
+	}
+
+	return sum
+}
